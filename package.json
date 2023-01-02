@@ -162,8 +162,8 @@
     "uslug": "^1.0.4",
     "uuid": "^8.3.0",
     "watchify": "^3.11.1",
-    "webpack": "^4.44.1",
-    "webpack-cli": "^3.3.12"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   },
   "files": [
     "bin/*mocha",
